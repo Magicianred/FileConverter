@@ -67,6 +67,7 @@ Os arquivos estão na pasta public
 
 ## Tecnologias
 
+- [Node.js](https://nodejs.org/en/)
 - [Javascript](https://www.javascript.com/)
 - [ejs](https://ejs.co/)
 
